@@ -1,0 +1,19 @@
+ContinueIntent spin
+ContinueIntent spin again
+ContinueIntent let it ride
+ContinueIntent continue
+ContinueIntent more
+
+AMAZON.StartOverIntent start game
+AMAZON.StartOverIntent new game
+AMAZON.StartOverIntent start
+AMAZON.StartOverIntent start new game
+
+AMAZON.HelpIntent help me
+
+AMAZON.RepeatIntent say that again
+AMAZON.RepeatIntent what did you say
+
+AMAZON.StopIntent stop
+AMAZON.StopIntent game over
+AMAZON.StopIntent we give up
